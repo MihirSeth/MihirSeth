@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML/CSS/JS
 - 💞️ I’m looking to collaborate on Python, Flutter and HTML/CSS/JS
 - 📫 How to reach me ...
+- UW CE
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MihirSeth)](https://github.com/anuraghazra/github-readme-stats)
 
