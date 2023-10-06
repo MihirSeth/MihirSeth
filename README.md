@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mihir Seth
 - 👀 I’m interested in all things coding!
-- 🌱 I’m currently learning HTML/CSS/JS
-- 💞️ I’m looking to collaborate on Python, Flutter and HTML/CSS/JS
+- 🌱 I’m currently learning C/C++
+- 💞️ I’m looking to collaborate on Python, Flutter, React JS, C/C++, HTML/CSS
 - 📫 How to reach me ...
 - UW CE
 
